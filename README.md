@@ -189,8 +189,6 @@ It helps make database querying more accessible to users with limited SQL knowle
 
 **Vanukuri Ganeshwar Reddy**
 
-GitHub: https://github.com/YOUR_USERNAME
-
 ## 📜 License
 
 This project is available for educational and learning purposes.
