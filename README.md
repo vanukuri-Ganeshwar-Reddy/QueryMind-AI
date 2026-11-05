@@ -187,7 +187,7 @@ It helps make database querying more accessible to users with limited SQL knowle
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Vanukuri Ganeshwar Reddy**
 
 GitHub: https://github.com/YOUR_USERNAME
 
